@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
