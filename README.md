@@ -31,9 +31,11 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
