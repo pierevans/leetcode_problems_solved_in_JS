@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -27,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -36,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
