@@ -32,6 +32,7 @@
 | [0009-palindrome-number](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
