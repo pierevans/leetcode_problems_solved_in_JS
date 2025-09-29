@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -23,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0242-valid-anagram) |
 ## Counting
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pierevans/leetcode_problems_solved_in_JS/tree/master/0189-rotate-array) |
